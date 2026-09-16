@@ -1,7 +1,6 @@
 # Olá! Sou o João Reche
 
   - 💻 Estou cursando Análise e Desenvolvimento de Sistemas, FATEC Sorocaba<br>
-  - 📒 Estou aprendendo Typescript
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoreche&layout=compact&theme=radical)
     
